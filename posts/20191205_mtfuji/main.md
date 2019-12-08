@@ -11,7 +11,7 @@ Copyright: (C) 2019 Futamura, Kazuhiko
 
 ## 畑越し
 
-![畑越しの富士山](./MtFuji-2.jpg)
+![畑越しの富士山](MtFuji-2.jpg)
 
 ## <span id="MtFuji-1">道路越しの富士山</span>
 

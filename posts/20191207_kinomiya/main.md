@@ -9,7 +9,7 @@ Copyright: (C) 2019 Futamura, Kazuhiko
 
 ちゃんと、大楠の周りを回ってきました。
 
-![御朱印](./gosyuin.jpg)
+![御朱印](gosyuin.jpg)
 
 ## ドキュメント
 
